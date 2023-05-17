@@ -1,2 +1,2 @@
 # Project---Barber-Shop
-Projeto para um barber shop utilizando conhecimento avançcados em html e css
+Projeto para um barber shop utilizando conhecimento avançado em html e css
